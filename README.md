@@ -1,6 +1,6 @@
 # Python Öğrenme Serüveni: Temel Kavramlar ve Algoritmalar
 
-Bu repository, Python programlama diline giriş sürecimde oluşturduğum, temelden orta seviyeye kadar uzanan konu anlatımlı kod örneklerini içermektedir. Yazılım mühendisliği yolculuğumdaki temel yapı taşlarını dökümante etmek amacıyla hazırlanmıştır.
+Bu repository, Python programlama diline giriş sürecimde oluşturduğum, temelden orta seviyeye kadar uzanan konu anlatımlı kod örneklerini içermektedir. Yazılım mühendisliği yolculuğumdaki temel yapı taşlarını dokümante etmek amacıyla hazırlanmıştır.
 
 ## İçerik Özeti
 
